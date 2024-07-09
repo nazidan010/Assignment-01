@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.head{background-image: url("assets/Hero-bg.png");
+text-align: center;
+}
+#btn{
+    background-color: black;
+   font-weight: bold;s
+   font-size: 20px;
+   color: white;
+   border: none;
+   padding: 18px 35px;
+   border-radius: 5px;
+}
+.main{
+    text-align: center;
+
+}
+#about{
+    
+}
