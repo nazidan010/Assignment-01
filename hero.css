@@ -7,19 +7,69 @@
 .head{background-image: url("assets/Hero-bg.png");
 text-align: center;
 }
-#btn{
-    background-color: black;
-   font-weight: bold;s
-   font-size: 20px;
-   color: white;
-   border: none;
-   padding: 18px 35px;
-   border-radius: 5px;
-}
+
+
 .main{
     text-align: center;
 
 }
-#about{
+.div-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 200px 0 100px;
+}
+.div-2{
+    max-width: 946px;
+    max-height: 336;
+}
+.wwd {
+    max-width: 1140;
+    max-height: 1380px;
+    margin: 100px;
+}
+.div-3{
+    text-align: center;
+}
+.sec-1{
+    background-color: rgb(204, 171, 159);
+    border:none;
+    max-width: 150px;
+    max-height: 200px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.sec-2{
+    background-color: rgb(163, 163, 193);
+    border:none;
+    max-width: 150px;
+    max-height: 200px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.sec-3{
+    background-color: rgb(236, 236, 151);
+    border:none;
+    max-width: 150px;
+    max-height: 200px;
+    padding: 10px 20px;
+    border-radius: 10px
+}
+.target{
+    text-align: center;
+}
+.sec-n{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.submit{
+    text-align: center;
+    color: white;
+    background-image: url(assets/handshake.jpg);
     
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
 }
